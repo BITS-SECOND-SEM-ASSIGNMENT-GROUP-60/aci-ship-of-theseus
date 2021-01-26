@@ -1,0 +1,37 @@
+# Artificial and Computational Intelligence Assignment 5
+#Use Bi-directional search strategy for the given Assignment.
+#Things to follow
+    #1.	Use appropriate data structures to represent the graph and the path using python libraries
+    #2.	Provide proper documentation
+    #3.	Find the path and print it
+#Coding begins here
+
+
+
+#1.	Define the agent environment in the following block
+    #PEAS environment, Initial data structures to define the graph and variable declarations
+
+
+#2.	Define a formula that Checks for existence of path
+    #Function for checking for the  path
+
+
+#3.	Implementation of bi-directional search technique for finding the path
+    #Code block 1
+
+
+#4.	Calling main function
+    #Function call to the bi-directional search technique
+
+
+#5.	The agent should provide the following output
+    #5.1.	Whether a path exists
+    #Function to find the existence of path
+
+
+    #5.2.	The path that covers required vertices in the graph
+    #Function that prints the path covering required vertices using bi-directional search
+
+
+    #5.3.	Print the total number of vertices (areas) visited by the agent in finding the path
+    #Execute code to print the number of vertices travelled to cover the path. (using bi-directional search)
